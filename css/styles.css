@@ -38,6 +38,9 @@ body {
   }
   .test-box {
       border: 2px solid magenta;
+      padding: 6px;
+      margin: 20px;
+      background-color: silver;
     }
 @media screen and (min-width: 480px) and (max-width: 767px) {
     body {
