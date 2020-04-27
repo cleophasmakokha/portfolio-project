@@ -36,6 +36,9 @@ body {
     width: 350px;
     float: left;
   }
+  .test-box {
+      border: 2px solid magenta;
+    }
 @media screen and (min-width: 480px) and (max-width: 767px) {
     body {
         background-color: black;
