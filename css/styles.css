@@ -32,6 +32,10 @@ body {
   float: right;
   background-color: yellow;
 }
+.column {
+    width: 350px;
+    float: left;
+  }
 @media screen and (min-width: 480px) and (max-width: 767px) {
     body {
         background-color: black;
